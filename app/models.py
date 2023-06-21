@@ -3,9 +3,9 @@ from flask_sqlalchemy import SQLAlchemy
 db = SQLAlchemy()
 
 
-class Brand(db.Model):
+class Category(db.Model):
     pass
 
 
-class Product(db.Model):
+class Article(db.Model):
     pass
