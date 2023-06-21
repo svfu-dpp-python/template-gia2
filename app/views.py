@@ -1,5 +1,4 @@
 
-
 def index_page():
     pass
 
