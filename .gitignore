@@ -2,10 +2,10 @@
 *.pyc
 
 # База данных
-instance/
+# instance/
 
 # Скрипты реструктуризации БД
-migrations/
+# migrations/
 
 # Виртуальное окружение Python
 venv/
